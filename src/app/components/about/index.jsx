@@ -79,7 +79,7 @@ const AboutDetails = () => {
         <ItemLayout className={"col-span-full md:col-span-6 !p-0"}>
           <img
             className="w-full h-auto"
-            src="https://github-readme-stats.vercel.app/api/pin/?username=Abdulnoorul&repo=wispertalk-springboot&theme=transparent&hide_border=true&title_color=FEFE5B&text_color=FFF&icon_color=FEFE5B&text_bold=false"
+            src="https://github-readme-stats.vercel.app/api/pin/?username=Abdulnoorul&repo=ANAKPortfolio&theme=transparent&hide_border=true&title_color=FEFE5B&text_color=FFF&icon_color=FEFE5B&text_bold=false"
             alt="Abdul Noorul"
             loading="lazy"
           />
