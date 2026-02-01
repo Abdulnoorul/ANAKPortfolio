@@ -114,7 +114,7 @@ export const BtnList = [
   },
   {
     label: "Resume",
-    link: "/Abdul_Noorul_Java_Fullstack_Developer.pdf",
+    link: "/AbdulNoorul_StackDeveloper.pdf",
     icon: "resume",
     newTab: true,
   },
