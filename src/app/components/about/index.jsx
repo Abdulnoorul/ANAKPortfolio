@@ -14,7 +14,7 @@ const AboutDetails = () => {
             Architect of Portfolio
           </h2>
           <p className="font-light text-justify text-xs sm:text-sm ms:text-base">
-            I’m a Full Stack Developer with 5 years of experience. While I work
+            I’m a Full Stack Developer with 7 years of experience. While I work
             across the whole stack, I spend most of my time on the frontend
             building responsive and high-performing interfaces with React and
             JavaScript.
